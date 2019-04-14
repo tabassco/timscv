@@ -49,10 +49,10 @@ Mechanical engineering - Production engineering
 
 Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks. 
 R - ggplot2, knitr, shiny, tidyr.  
-Cloud - AWS
+Cloud - AWS.
 Web development - JS, D3, dc.js, crossfilter.  
-Linux - Git, bash/zsh
-SQL
+Linux - Git, bash/zsh.
+SQL - MySQL, PostgreSQL
 Scala
 
 Author/Contributor to open source projects: [badapy](https://github.com/tabassco/badapy)

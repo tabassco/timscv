@@ -6,7 +6,7 @@ title: Tim Kreitner - Resume
 Computational engineering student, with a degree in mechanical engineering.
 
 <div id="webaddress">
-<a href="tim@kreitner.xyz">tim@kreitner.xyz</a>
+<a href="mailto:tim@kreitner.xyz">tim@kreitner.xyz</a>
 | <a href="http://tabassco.github.io">tabassco.github.io</a>
 | <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
 | <a href="http://github.com/tabassco">GitHub</a>

@@ -7,8 +7,9 @@ Computational engineering student, with a degree in mechanical engineering.
 
 <div id="webaddress">
 <a href="mailto:tim@kreitner.xyz">tim@kreitner.xyz</a>
-| <a href="http://tabassco.github.io">tabassco.github.io</a>
+| <a href="http://tkreitner.xyz">tkreitner.xyz</a>
 | <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
+| <a href="https://www.xing.com/profile/Tim_Kreitner/">Xing</a>
 | <a href="http://github.com/tabassco">GitHub</a>
 </div>
 
@@ -23,7 +24,7 @@ Author/Contributor to open source projects: [badapy](https://github.com/tabassco
 ## Work
 
 `Mar2018 - Apr2019`
-__Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__
+__Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__ Frankfurt a.M., Germany
 
 - Automated reporting in controlling
 - Creating dossiers and reports for individual companies and industries
@@ -31,7 +32,7 @@ __Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__
 
 
 `Aug2017 - Feb2018`
-__Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.truetzschler-nonwovens.de/)__
+__Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.truetzschler-nonwovens.de/)__ Egelsbach, Germany
 
 - Monthly Quality Reporting
 - Value Stream Mapping
@@ -39,14 +40,14 @@ __Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.
 
 
 `Feb2016-Jul2017`
-__Student Trainee Operational Excellence, [DAW SE](https://www.truetzschler-nonwovens.de/)__
+__Student Trainee Operational Excellence, [DAW SE](https://www.truetzschler-nonwovens.de/)__ Ober-Ramstadt, Germany
 
 - Organizing Leadership Training
 - Creating a Multiplicator Concept
 
 
 `Jun2015-Oct2015`
-__Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon.com/manmade-fibers/en/)__
+__Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon.com/manmade-fibers/en/)__ Remscheid, Germany
 
 - Net Working Capital Reduzierung
 - OMF Global Manufacturing Strategy
@@ -81,11 +82,11 @@ Mechanical Engineering
 
 ## Volunteering
 `2017-2018`
-Volunteer Tutor, Die Nachhelfer e.V.
+Volunteer Tutor, __Die Nachhelfer e.V.__ Darmstadt, Germany
 
 `2012-2015`
 Semester and Student Representative, __[AMIV / VSETH](https://amiv.ethz.ch/en/)__ Zurich, Switzerland
 
 
 `2010`
-Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__
+Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__ Vancouver, Canada

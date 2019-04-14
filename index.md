@@ -7,36 +7,16 @@ Computational engineering student, with a degree in mechanical engineering.
 
 <div id="webaddress">
 <a href="tim@kreitner.xyz">tim@kreitner.xyz</a>
-
 | <a href="http://tabassco.github.io">tabassco.github.io</a>
 | <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
 | <a href="http://github.com/tabassco">GitHub</a>
 </div>
 
-<!-- notable accomplishments - ie. projects completed
-
-link.opentargets.io
-library-beam
-www.targetvalidation.org
-pnas paper
-microbiome analysis for finch/seres
- -->
-
 ### Experienced in
 
-Machine learning, python and data engineering architecture
-Mechanical engineering - Production engineering
+- Machine learning, python and data engineering architecture
+- Mechanical engineering - Production engineering
 
-
-### Computing
-
-Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks.
-R - ggplot2, knitr, shiny, tidyr.
-Cloud - AWS
-Web development - JS, D3, dc.js, crossfilter.
-Linux - Git, bash/zsh
-SQL
-Scala
 
 Author/Contributor to open source projects: [badapy](https://github.com/tabassco/badapy)
 
@@ -75,18 +55,28 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 ## Education
 
 `2019`
-__M. Sc., Technical University Darmstadt__, Darmstadt, Germany
+__M. Sc., Technical University Darmstadt__
 Mechanical Engineering
 
 - Thesis: Investigation of flight operational data to evaluate the efficiency of different flights.
 - Focus: Machine Learning, Robotics, Production Engineering
 
 `2017`
-__B. Sc., Technical University Darmstadt__, Darmstadt, Germany
-Mechanical Engineering, Biomedical Option
+__B. Sc., Technical University Darmstadt__
+Mechanical Engineering
 
 - Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components.
 
+
+### Computing
+
+- Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks.
+- R - ggplot2, knitr, shiny, tidyr.
+- Cloud - AWS
+- Web development - JS, D3, dc.js, crossfilter.
+- Linux - Git, bash/zsh
+- SQL
+- Scala
 
 ## Volunteering
 `2017-2018`

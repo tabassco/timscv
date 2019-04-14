@@ -14,7 +14,7 @@ Computational engineering student, with a degree in mechanical engineering.
 
 ### Experienced in
 
-- Machine learning, python and data engineering architecture
+- Machine learning, feature selection, python and data engineering architecture
 - Mechanical engineering - Production engineering
 
 
@@ -27,6 +27,7 @@ __Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__
 
 - Automated reporting in controlling
 - Creating dossiers and reports for individual companies and industries
+- Advancing data visualization
 
 
 `Aug2017 - Feb2018`
@@ -56,7 +57,7 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 
 `2019`
 __M. Sc., Technical University Darmstadt__
-Mechanical Engineering
+Computational Engineering
 
 - Thesis: Investigation of flight operational data to evaluate the efficiency of different flights.
 - Focus: Machine Learning, Robotics, Production Engineering

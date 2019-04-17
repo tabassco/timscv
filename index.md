@@ -3,7 +3,7 @@ layout: cv
 title: Tim Kreitner - Resume
 ---
 # Tim Kreitner
-Computational engineering student, with a degree in mechanical engineering.
+Data Scientist and computational engineering student with a degree in mechanical engineering.
 
 <div id="webaddress">
 <a href="mailto:tim@kreitner.xyz">tim@kreitner.xyz</a>

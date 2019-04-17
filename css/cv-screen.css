@@ -71,8 +71,8 @@ p {
 }
 
 code {
+	font-size: 90%;
 	font: normal normal;
-	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -80,7 +80,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -16%;
 }
 
 

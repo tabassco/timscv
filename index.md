@@ -39,14 +39,14 @@ __Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.
 - Flow Chart Meetings
 
 
-`Feb2016-Jul2017`
+`Feb2016 - Jul2017`
 __Student Trainee Operational Excellence, [DAW SE](https://www.truetzschler-nonwovens.de/)__ Ober-Ramstadt, Germany
 
 - Organizing Leadership Training
 - Creating a Multiplicator Concept
 
 
-`Jun2015-Oct2015`
+`Jun2015 - Oct2015`
 __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon.com/manmade-fibers/en/)__ Remscheid, Germany
 
 - Net Working Capital Reduzierung

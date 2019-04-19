@@ -76,7 +76,9 @@ Mechanical Engineering
 
 ### School
 
-`2012` __Abitur, Städt. Gymn. Thusneldastr.__, Cologne, Germany (Grade 1.4)
+`2003 - 2012` __Abitur, Städt. Gymn. Thusneldastr.__, Cologne, Germany (Grade 1.4)
+
+
 `2009 - 2010`__Exchange Year, Howe Sound Secondary School__, Squamish BC, Canada
 
 ### Computing
@@ -91,7 +93,7 @@ Mechanical Engineering
 
 ## Volunteering
 `2017 - 2018`
-Chairman, __Die Nachhelfer e.V.__ Darmstadt, Germany
+Chairman, __[Die Nachhelfer e.V.](http://www.nachhelfer-darmstadt.com/)__ Darmstadt, Germany
 
 - Chairman, responsible for cooperation with school principal.
 - Volunteer Tutor for disadvantaged children.

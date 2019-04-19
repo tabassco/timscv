@@ -67,7 +67,7 @@ Computational Engineering
 __B. Sc., Technical University Darmstadt__
 Mechanical Engineering
 
-- Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components.
+- Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components. (Grade: 1.3 / 1)
 
 `2012 - 2015`
 __B. Sc., ETH Zurich__
@@ -88,15 +88,15 @@ Mechanical Engineering
 `2017 - 2018`
 Chairman, __Die Nachhelfer e.V.__ Darmstadt, Germany
 
-- Chairman, responsible for cooperation with school dean.
+- Chairman, responsible for cooperation with school principal.
 - Volunteer Tutor for disadvantaged children.
 
 
 `2012 - 2015`
 Semester and Student Representative, __[AMIV / VSETH](https://amiv.ethz.ch/en/)__ Zurich, Switzerland
 
-- Representative for AMIV in department Teaching and Department.
-- Representative for VSETH in the Swiss Students Union.
+- Student representative for AMIV in teaching and department conferences for mechanical engineering.
+- Student representative for VSETH in the Swiss Students Union.
 
 `2010`
 Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__ Vancouver, Canada

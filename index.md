@@ -56,20 +56,20 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 
 ## Education
 
-`2017-2019`
+`2017 - 2019`
 __M. Sc., Technical University Darmstadt__
 Computational Engineering
 
 - Thesis: Investigation of flight operational data to evaluate the efficiency of different flights.
 - Focus: Machine Learning, Robotics, Production Engineering
 
-`2015-2017`
+`2015 - 2017`
 __B. Sc., Technical University Darmstadt__
 Mechanical Engineering
 
 - Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components.
 
-`2012-2015`
+`2012 - 2015`
 __B. Sc., ETH Zurich__
 Mechanical Engineering
 
@@ -85,11 +85,18 @@ Mechanical Engineering
 - Scala
 
 ## Volunteering
-`2017-2018`
-Volunteer Tutor, __Die Nachhelfer e.V.__ Darmstadt, Germany
+`2017 - 2018`
+Chairman, __Die Nachhelfer e.V.__ Darmstadt, Germany
 
-`2012-2015`
+- Chairman, responsible for cooperation with school dean.
+- Volunteer Tutor for disadvantaged children.
+
+
+`2012 - 2015`
 Semester and Student Representative, __[AMIV / VSETH](https://amiv.ethz.ch/en/)__ Zurich, Switzerland
+
+- Representative for AMIV in department Teaching and Department.
+- Representative for VSETH in the Swiss Students Union.
 
 `2010`
 Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__ Vancouver, Canada

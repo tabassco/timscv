@@ -55,6 +55,7 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 
 
 ## Education
+### University
 
 `2017 - 2019`
 __M. Sc., Technical University Darmstadt__
@@ -73,6 +74,10 @@ Mechanical Engineering
 __B. Sc., ETH Zurich__
 Mechanical Engineering
 
+### School
+
+`2012` __Abitur, Städt. Gymn. Thusneldastr.__, Cologne, Germany (Grade 1.4)
+`2009 - 2010`__Exchange Year, Howe Sound Secondary School__, Squamish BC, Canada
 
 ### Computing
 

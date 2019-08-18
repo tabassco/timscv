@@ -6,41 +6,14 @@ title: Tim Kreitner - Resume
 Software-Engineer with degrees in Computational and Mechanical Engineering.
 
 <div id="webaddress">
-<script type="text/javascript">
-//<![CDATA[
-<!--
-var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
-"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
-" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!08{)rt{y+xx=l;=+;" +
-"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
-"\"(4),9\\\"\\\\}ubwwhh)0z& 5lR)20\\\\0P\\\\WIy[GYEW_]7W01\\\\\\\\22\\\\0s\\" +
-"\\DBFMtO\\\\\\\\SG06\\\\0N\\\\JGBN02\\\\0C\\\\x#opms58`Jvpe<by` gyIkwiugom;" +
-"gno\\\\\\\\21\\\\05\\\\02\\\\\\\\32\\\\07\\\\02\\\\\\\\$[0J02\\\\\\\\20\\\\" +
-"06\\\\00\\\\\\\\33\\\\0R\\\\20\\\\0L\\\\FM03\\\\00\\\\00\\\\\\\\16\\\\06\\\\"+
-"03\\\\\\\\00\\\\02\\\\03\\\\\\\\20\\\\0H\\\\21\\\\0n\\\\\\\\\\\\06\\\\07\\\\"+
-"01\\\\\\\\24\\\\03\\\\00\\\\\\\\:0\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
-"hx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)4+(9i>f({i+)i+l;i<0;i=r(foh;gten.l" +
-"=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"                        ;
-while(x=eval(x));
-//-->
-//]]> </script>
-
-| <a href="http://tabassco.github.io">tabassco.github.io</a>
+<a href="mailto:tim@kreitner.xyz">tim@kreitner.xyz</a>
+| <a href="http://tkreitner.xyz">tkreitner.xyz</a>
 | <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
+| <a href="https://www.xing.com/profile/Tim_Kreitner/">Xing</a>
 | <a href="http://github.com/tabassco">GitHub</a>
 </div>
 
-<!-- notable accomplishments - ie. projects completed
-
-link.opentargets.io
-library-beam
-www.targetvalidation.org
-pnas paper
-microbiome analysis for finch/seres
- -->
-
 ### Experienced in
-
 
 software engineering and testing
 machine learning, data analysis and statistics
@@ -66,29 +39,30 @@ __Software-Engineer, [HILSTER GmbH](https://www.hilster.de/)__
 - Developing automated testing for both hard- and software
 
 `Mar2018 - Apr2019`
-__Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__
+__Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__ Frankfurt a.M., Germany
 
 - Automated reporting in controlling
 - Creating dossiers and reports for individual companies and industries
+- Advancing data visualization
 
 
 `Aug2017 - Feb2018`
-__Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.truetzschler-nonwovens.de/)__ 
+__Student Trainee Quality Management, [Trützschler Nonwovens GmbH](https://www.truetzschler-nonwovens.de/)__ Egelsbach, Germany
 
 - Monthly Quality Reporting
 - Value Stream Mapping
 - Flow Chart Meetings
 
 
-`Feb2016-Jul2017`
-__Student Trainee Operational Excellence, [DAW SE](https://www.truetzschler-nonwovens.de/)__ 
+`Feb2016 - Jul2017`
+__Student Trainee Operational Excellence, [DAW SE](https://www.truetzschler-nonwovens.de/)__ Ober-Ramstadt, Germany
 
 - Organizing Leadership Training
 - Creating a Multiplicator Concept
 
 
-`Jun2015-Oct2015`
-__Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon.com/manmade-fibers/en/)__
+`Jun2015 - Oct2015`
+__Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon.com/manmade-fibers/en/)__ Remscheid, Germany
 
 - Net Working Capital Reduzierung
 - OMF Global Manufacturing Strategy
@@ -96,28 +70,55 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 
 
 ## Education
+### University
 
-`2019`
-__M. Sc., Technical University Darmstadt__, Darmstadt, Germany
-Mechanical Engineering
+`2017 - 2019`
+__M. Sc., Technical University Darmstadt__
+Computational Engineering
 
 - Thesis: Investigation of flight operational data to evaluate the efficiency of different flights.
 - Focus: Machine Learning, Robotics, Production Engineering
 
-`2017`
-__B. Sc., Technical University Darmstadt__, Darmstadt, Germany
-Mechanical Engineering, Biomedical Option
+`2015 - 2017`
+__B. Sc., Technical University Darmstadt__
+Mechanical Engineering
 
-- Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components.
+- Thesis: Development of a process data analysis for the economical production of safety-critical aerospace components. (Grade: 1.3 / 1)
 
+`2012 - 2015`
+__B. Sc., ETH Zurich__
+Mechanical Engineering
+
+### School
+
+`2003 - 2012` __Abitur, Städt. Gymn. Thusneldastr.__, Cologne, Germany (Grade 1.4)
+
+
+`2009 - 2010`__Exchange Year, Howe Sound Secondary School__, Squamish BC, Canada
+
+### Computing
+
+- Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks.
+- R - ggplot2, knitr, shiny, tidyr.
+- Cloud - AWS
+- Web development - JS, D3, dc.js, crossfilter.
+- Linux - Git, bash/zsh
+- SQL
+- Scala
 
 ## Volunteering
-`2017-2018`
-Volunteer Tutor, Die Nachhelfer e.V.
+`2017 - 2018`
+Chairman, __[Die Nachhelfer e.V.](http://www.nachhelfer-darmstadt.com/)__ Darmstadt, Germany
 
-`2012-2015`
+- Chairman, responsible for cooperation with school principal.
+- Volunteer Tutor for disadvantaged children.
+
+
+`2012 - 2015`
 Semester and Student Representative, __[AMIV / VSETH](https://amiv.ethz.ch/en/)__ Zurich, Switzerland
 
+- Student representative for AMIV in teaching and department conferences for mechanical engineering.
+- Student representative for VSETH in the Swiss Students Union.
 
 `2010`
-Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__
+Event Services Volunteer, __VANOC - Vancouver Olympic Organizing Comittee__ Vancouver, Canada

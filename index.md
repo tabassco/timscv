@@ -3,7 +3,7 @@ layout: cv
 title: Tim Kreitner - Resume
 ---
 # Tim Kreitner
-Computational engineering student, with a degree in mechanical engineering.
+Software-Engineer with degrees in Computational and Mechanical Engineering.
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -41,8 +41,10 @@ microbiome analysis for finch/seres
 
 ### Experienced in
 
-Machine learning, python and data engineering architecture
-Mechanical engineering - Production engineering
+
+software engineering and testing
+machine learning, data analysis and statistics
+mechanical engineering - production engineering, electronics and hardware
 
 
 ### Computing
@@ -58,6 +60,9 @@ Scala
 Author/Contributor to open source projects: [badapy](https://github.com/tabassco/badapy)
 
 ## Work
+`Current`
+__Software-Engineer, [HILSTER GmbH](https://www.hilster.de/)__
+
 
 `Mar2018 - Apr2019`
 __Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__

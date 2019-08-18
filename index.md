@@ -15,20 +15,18 @@ Software-Engineer with degrees in Computational and Mechanical Engineering.
 
 ### Experienced in
 
-software engineering and testing
-machine learning, data analysis and statistics
-mechanical engineering - production engineering, electronics and hardware
+- software engineering and testing
+- machine learning, data analysis and statistics
+- mechanical engineering - production engineering, electronics and hardware
 
 
 ### Computing
 
-Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks. 
-R - ggplot2, knitr, shiny, tidyr.  
-Cloud - AWS.
-Web development - JS, D3, dc.js, crossfilter.  
-Linux - Git, bash/zsh.
-SQL - MySQL, PostgreSQL
-Scala
+- Python - tensorflow, scikit-learn, scipy/numpy, pytest.
+- R - ggplot2, knitr, shiny, tidyr.  
+- Cloud - AWS.
+- Web development - JS, D3, dc.js, crossfilter.
+- SQL - MySQL, PostgreSQL.
 
 Author/Contributor to open source projects: [badapy](https://github.com/tabassco/badapy)
 

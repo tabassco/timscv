@@ -63,6 +63,7 @@ Author/Contributor to open source projects: [badapy](https://github.com/tabassco
 `Current`
 __Software-Engineer, [HILSTER GmbH](https://www.hilster.de/)__
 
+- Developing automated testing for both hard- and software
 
 `Mar2018 - Apr2019`
 __Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__

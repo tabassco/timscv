@@ -26,15 +26,18 @@ Software-Engineer with degrees in Computational and Mechanical Engineering.
 - R - ggplot2, knitr, shiny, tidyr.  
 - Cloud - AWS.
 - Web development - JS, D3, dc.js, crossfilter.
-- SQL - MySQL, PostgreSQL.
+- Databases - MySQL, PostgreSQL, MongoDB
 
 Author/Contributor to open source projects: [badapy](https://github.com/tabassco/badapy)
 
 ## Work
-`Current`
-__Software-Engineer, [HILSTER GmbH](https://www.hilster.de/)__
+`Aug2019 - Current`
+__Software-Engineer, [HILSTER Testing Solutions GmbH](https://www.hilster.de/)__
 
 - Developing automated testing for both hard- and software
+- Hardware- and Software-in-the-Loop
+- System Verification
+- Requirements Management
 
 `Mar2018 - Apr2019`
 __Student Trainee, [Allistro GmbH](https://www.allistro.de/en/homepage-en/)__ Frankfurt a.M., Germany
@@ -94,15 +97,6 @@ Mechanical Engineering
 
 `2009 - 2010`__Exchange Year, Howe Sound Secondary School__, Squamish BC, Canada
 
-### Computing
-
-- Python - tensorflow, scikit-learn, numpy, matplotlib, seaborn, pandas, jupyter, notebooks.
-- R - ggplot2, knitr, shiny, tidyr.
-- Cloud - AWS
-- Web development - JS, D3, dc.js, crossfilter.
-- Linux - Git, bash/zsh
-- SQL
-- Scala
 
 ## Volunteering
 `2017 - 2018`

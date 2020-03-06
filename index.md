@@ -73,7 +73,7 @@ __Internship Operations Planning, [Oerlikon Manmade Fibers](https://www.oerlikon
 ## Education
 ### University
 
-`2017 - 2019`
+`2017 - 2020`
 __M. Sc., Technical University Darmstadt__
 Computational Engineering
 

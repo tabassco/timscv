@@ -7,10 +7,9 @@ Software-Engineer und Computational- / Maschinenbauingenieur.
 
 <div id="webaddress">
 <a href="mailto:tim@kreitner.xyz">tim@kreitner.xyz</a>
-| <a href="http://tkreitner.xyz">tkreitner.xyz</a>
-| <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
+<!-- | <a href="https://www.linkedin.com/in/tim-kreitner-93632376/">LinkedIn</a>
 | <a href="https://www.xing.com/profile/Tim_Kreitner/">Xing</a>
-| <a href="http://github.com/tabassco">GitHub</a>
+| <a href="http://github.com/tabassco">GitHub</a> -->
 </div>
 
 ### Erfahrung
